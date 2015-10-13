@@ -26,7 +26,7 @@ couleur_feutre = turtle.pencolor
 couleur_remplissage = turtle.fillcolor
 
 commence_a_remplir = turtle.fill(True)
-finit_de_remplir = turtle.fill(False)
+finis_de_remplir = turtle.fill(False)
 
 montre_tortue = turtle.showturtle
 cache_tortue = turtle.hideturtle
